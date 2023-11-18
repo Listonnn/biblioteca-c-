@@ -1,0 +1,8 @@
+F:\Material Oficial - Estrutura de Dados\Programas Exemplo - C#\Arvore\Aula\bin\Debug\Aula.exe.config
+F:\Material Oficial - Estrutura de Dados\Programas Exemplo - C#\Arvore\Aula\bin\Debug\Aula.exe
+F:\Material Oficial - Estrutura de Dados\Programas Exemplo - C#\Arvore\Aula\bin\Debug\Aula.pdb
+F:\Material Oficial - Estrutura de Dados\Programas Exemplo - C#\Arvore\Aula\obj\Debug\Aula.csproj.AssemblyReference.cache
+F:\Material Oficial - Estrutura de Dados\Programas Exemplo - C#\Arvore\Aula\obj\Debug\Aula.csproj.SuggestedBindingRedirects.cache
+F:\Material Oficial - Estrutura de Dados\Programas Exemplo - C#\Arvore\Aula\obj\Debug\Aula.csproj.CoreCompileInputs.cache
+F:\Material Oficial - Estrutura de Dados\Programas Exemplo - C#\Arvore\Aula\obj\Debug\Aula.exe
+F:\Material Oficial - Estrutura de Dados\Programas Exemplo - C#\Arvore\Aula\obj\Debug\Aula.pdb

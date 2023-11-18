@@ -1,0 +1,4 @@
+C:\Users\PC\OneDrive\Área de Trabalho\Aula\Aula\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Área de Trabalho\Aula\Aula\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Área de Trabalho\Aula\Aula\obj\Debug\Aula.exe
+C:\Users\PC\OneDrive\Área de Trabalho\Aula\Aula\obj\Debug\Aula.pdb
